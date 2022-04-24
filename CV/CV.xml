@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="CV.xslt"?>
+
+<CV xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="CV.xsd">
+  <PersonalDetails>
+    <FullName> Mercy Sholola </FullName>
+    <Email>mercysholola@outlook.com</Email>
+    <PhoneNumber>07910000000</PhoneNumber>
+    <Photo>https://i.pinimg.com/originals/08/0f/02/080f02bde02255a84594839d90b20e56.jpg</Photo>
+  </PersonalDetails>
+
+  <Employment>
+    <Job>
+      <Start> 2019 </Start>
+      <End>Current</End>
+      <Company>Millennium Pharmacy</Company>
+      <Duties>Pharmacist/ Sales assistant</Duties>
+      <Description>Welcoming customers into the store,
+      managing payment, dispensing patient medication</Description>
+    </Job>
+    <Job>
+      <Start> 2019 </Start>
+      <End>2019</End>
+      <Company>National Career Service</Company>
+      <Duties>Job Fair Assistant</Duties>
+      <Description>
+        Dircting customers where to go within the job fair,
+        providing information regarding the workshops</Description>
+    </Job>
+    <Job>
+      <Start> 2018 </Start>
+      <End>2018</End>
+      <Company>Lambeth College</Company>
+      <Duties>IT Support assistant</Duties>
+      <Description>
+        Helping set up equipment, assisting to set up new equipment
+      assisting IT technician</Description>
+    </Job>
+  </Employment>
+
+  <Education>
+    <Insitution name="The Grey Coat Hospital School">
+      <Subjects>
+        <Subject>
+          <Start>2014</Start>
+          <End>2029</End>
+          <Name> Maths, English, Science, RE, German, DT, Music </Name>
+          <level>GCSE</level>
+          <Grade>A-C</Grade>
+        </Subject>
+      </Subjects>
+    </Insitution>
+    
+    <Insitution name="City of Westminster College">
+      <Subjects>
+        <Subject>
+          <Start>2019</Start>
+          <End>2021</End>
+          <Name> Informational Technology </Name>
+          <level>BTEC Level 3</level>
+          <Grade>Distinction-Merit-Merit</Grade>
+        </Subject>
+      </Subjects>
+    </Insitution>
+
+    <Insitution name="Buckinghamshire New University">
+      <Subjects>
+        <Subject>
+          <Start>2021</Start>
+          <End>2024</End>
+          <Name>Computing and Web Development</Name>
+          <level>BSc</level>
+          <Grade>null</Grade>
+        </Subject>
+      </Subjects>
+    </Insitution>
+  </Education>
+
+  <Hobbies>
+    <Hobby>
+      <Name> Singing </Name>
+    </Hobby>
+  </Hobbies>
+
+</CV>
