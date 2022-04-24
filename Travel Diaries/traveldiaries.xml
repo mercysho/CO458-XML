@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="traveldiaries.xslt"?>
+<!--Mercy Sholola | 22130778 -->
+<Diary>
+	<Entry>
+		<Date> 05/06/2018 </Date>
+		<Title> Trip to Mallorca </Title>
+		<Location> Spain </Location>
+    <Author>Mercy Sholola</Author>
+    <Account>1</Account>
+		<Descripton>
+      Cousins' wedding and was the bridesmaid, so i had to attend for the 4 days me and my family were there.
+    </Descripton>
+		<Image>https://thepointsguy.co.uk/wp-content/uploads/2020/07/GettyImages-1059930798.jpg</Image>
+	</Entry>
+
+  <Entry>
+    <Date> 08/08/2014 </Date>
+    <Title> Trip to Rhodes </Title>
+    <Location> Greece </Location>
+    <Author>Mercy Sholola</Author>
+    <Account>2</Account>
+    <Descripton>
+      4 weeks in the beautiful country, sightseeing, eating cultural foods, night events and much more fun.
+    </Descripton>
+    <Image>https://focusgreece.com/wp-content/uploads/2018/10/Tourist-Mecca-Rhodes.jpg</Image>
+  </Entry>
+
+  <Entry>
+    <Date> 14/02/2022 </Date>
+    <Title> Visiting Birmingham </Title>
+    <Location> Santai Spa Hotel, Birmingham </Location>
+    <Author>Mercy Sholola</Author>
+    <Account>3</Account>
+    <Descripton>
+      A 4 night, 3 day stay in a hotel located in the city of Birmingham, to celebrate Galentines/ Valentines day
+    </Descripton>
+    <Image>https://genting-live.imgix.net/uploads/images/Resort_World_-_spa_shoot_-_nov_20194558.jpg</Image>
+  </Entry>
+
+  <Entry>
+    <Date> 01/07/2020 </Date>
+    <Title> Solo Holiday </Title>
+    <Location> Italy </Location>
+    <Author>Mercy Sholola</Author>
+    <Account>4</Account>
+    <Descripton>
+      Going to Venice, Italy for 5 days, as a solo trip just to relax by myself.
+    </Descripton>
+    <Image>https://1474092656.rsc.cdn77.org/data/images/full/53661/venice-travel-5-key-reasons-to-visit-venice.jpg</Image>
+  </Entry>
+
+</Diary>
